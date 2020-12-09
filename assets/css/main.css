@@ -1,0 +1,469 @@
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+        overflow-x: hidden;
+      }
+      h1,h4,h5{
+        display: inline-block;
+      }
+      p{
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+      }
+      .webPage {
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    background-image: url("../images/webPage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 1);
+      width: 1680.00px;
+    height: 2739.00px;
+    left: 0em;
+    top: 0px;
+}
+.webPage .headerContainer {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 1680.00px;
+    height: 141.00px;
+    left: 0.00px;
+    top: 0.00px;
+}
+.webPage .mainBody {
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: 2667.00px;
+    left: 0.2em;
+    right: 0.00px;
+    bottom: 0.00px;
+}
+.webPage .mainBody .bodyContainer {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: 1203.00px;
+    height: 2330.00px;
+    left: 161.00px;
+    top: 69.00px;
+}
+.webPage .mainBody .navBar {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(24, 78, 102, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: 1203.00px;
+    height: 59.00px;
+    left: 161.00px;
+    top: 69.00px;
+}
+.webPage .mainBody .mainbody-header {
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1203.00px;
+    height: 187.50px;
+    right: 156.00px;
+    left: 10.1em;
+    bottom: 2351.50px;
+}
+.webPage .mainBody .mainbody-header .img1 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("../images/img1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 0.5199999809265137;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: 1203.00px;
+    height: 187.50px;
+    left: 0.00px;
+    top: 0.00px;
+}
+.webPage .mainBody .mainbody-header .search-bar {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 3.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 3.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 3.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 3.00px;
+      border-top-left-radius: 10.00px;
+      border-top-right-radius: 10.00px;
+      border-bottom-left-radius: 10.00px;
+      border-bottom-right-radius: 10.00px;
+      box-shadow: none;
+      width: 399.00px;
+    height: 49.00px;
+    right: 150.00px;
+    bottom: 93.50px;
+}
+.webPage .mainBody .mainbody-header .search-icon-bar {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 178, 57, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 10.00px;
+      border-top-right-radius: 10.00px;
+      border-bottom-left-radius: 10.00px;
+      border-bottom-right-radius: 10.00px;
+      box-shadow: none;
+      width: 68.00px;
+    height: 49.00px;
+    right: 76.00px;
+    bottom: 93.50px;
+}
+.webPage .mainBody .mainbody-header .iconFeatherSearch {
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 27.00px;
+    height: 27.00px;
+    right: 96.00px;
+    bottom: 104.50px;
+}
+.webPage .mainBody .mainbody-header .iconFeatherSearch .path1 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      fill: transparent;
+      stroke: rgba(249, 245, 245, 1);
+          stroke-width: 3.00px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 30.00px;
+    height: 30.00px;
+    left: -3.00px;
+    top: -3.00px;
+}
+.webPage .mainBody .mainbody-header .iconFeatherSearch .path2 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      fill: transparent;
+      stroke: rgba(249, 245, 245, 1);
+          stroke-width: 3.00px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 12.52px;
+    height: 12.53px;
+    right: -3.00px;
+    bottom: -3.00px;
+}
+.webPage .mainBody .carasoul {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(81, 73, 73, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: 1203.00px;
+    height: 378.00px;
+    left: 161.00px;
+    top: 316.00px;
+}
+.webPage .mainBody .add160600 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(204, 204, 204, 0.9686274509803922);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: 160.00px;
+    height: 600.00px;
+    left: 212.00px;
+    bottom: 974.00px;
+}
+
+.webPage .mainBody .add2 {
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1203.00px;
+    height: 168.00px;
+    right: 156.00px;
+    bottom: 351.00px;
+    left: 160px;
+}
+.webPage .mainBody .add2 .addContainer2 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(236, 249, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 0.00px;
+    right: 0.00px;
+    bottom: 0.00px;
+}
+.webPage .mainBody .add2 .add76890 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(204, 204, 204, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      box-shadow: none;
+      width: 768.00px;
+    height: 90.00px;
+    right: 217.00px;
+    bottom: 39.00px;
+}
+
+.webPage .mainBody .iconZocialCall {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      fill: rgba(1, 61, 119, 1);
+      box-shadow: none;
+      width: 42.68px;
+    height: 35.43px;
+    top: 0.00px;
+    right: 328.32px;
+}
+
+
+.subtitle {
+  color: #337d9e !important;
+  font-weight: bolder;
+  margin: 0.00px;
+  margin-top: 12px;
+  margin-left: 1.3em; 
+}
+
+.headerContainer > h1{
+  color: #337d9e !important;
+  font-weight: bolder;
+}
+
+.callicon{
+  position: absolute;
+  fill: #337d9e;
+  left: 1100px;
+  top: 80px;
+}
+
+.headerContainer > h1{
+  position: absolute;
+  margin: 0;
+  font-size: 20px;
+  left: 164px;
+  top: 50px;
+}
